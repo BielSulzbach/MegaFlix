@@ -1,0 +1,13 @@
+.FilmesPrincipais{
+    height: 900px;
+    background: rgb(176, 58, 242);
+    background: linear-gradient(90deg, rgba(176,58,242,1)0%, rgba(130,39,196,1)46%);
+    text-align:center;
+}
+img, .atropos{
+    width: 450px;
+    height: auto;
+    border-radius: 16px;
+    gap: 50px;
+    margin-bottom: 20px;
+}

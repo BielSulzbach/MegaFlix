@@ -1,0 +1,8 @@
+@import "header.css";
+@import "Características.css";
+@import "FIlmesPrincipais.css";
+*{
+    padding: 0;
+    margin: 0;
+    
+}
